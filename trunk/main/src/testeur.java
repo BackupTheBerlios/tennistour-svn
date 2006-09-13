@@ -1,3 +1,4 @@
+/*Classe de test*/
 import tournament.tree.*;
 import tournament.tree.visitor.*;
 public class testeur {
